@@ -10,8 +10,7 @@ I've learned that I love working on a team. Trying to bring understanding betwee
 My undergraduate was in Psychology, but I have a healthy background in STEM (evidence by my math and chemistry minor) to meet the requirements for a Computing Masters Degree!
 This had the unintended side effect of entering my profession with a low amount of initial projects, but I hope to bridge that gap every day.
 
-I have a few pinned projects, but the Winter 2025 Game Jam is a special project as my group won a Judge and Community vote.
-
+I have a few pinned projects, but the Summer 2025 Game Jam is a special project as the project got 1st place at this jam.
 <!--
 **tamta-dev/tamta-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
